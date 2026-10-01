@@ -58,12 +58,6 @@ This project takes Apple's annual financial statements for FY2022-FY2025 and tur
 - ROIC is simplified: it uses operating income rather than NOPAT, and total debt plus equity without adjusting for cash.
 - Figures come from reported financial statements with no adjustments for one-off items.
 
-## Next steps
-
-- Upgrade ROIC to NOPAT / invested capital
-- Extend the dataset to more years
-- Add peer comparisons (e.g. Microsoft, Alphabet)
-
 ## Run it yourself
 
 ```bash
