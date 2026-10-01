@@ -8,7 +8,7 @@ This project takes Apple's annual financial statements for FY2022-FY2025 and tur
 
 ## Data and method
 
-- **Data source:** [EDIT THIS: e.g. Apple 10-K filings via SEC EDGAR / Yahoo Finance]
+- **Data source:** Yahoo Finance
 - **Period:** Fiscal years 2022-2025 (fiscal years end in September)
 - **Units:** USD billions
 - **Tools:** Python, pandas, NumPy, matplotlib, Jupyter
